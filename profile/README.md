@@ -60,8 +60,8 @@ We build with modern, fast, and type-safe technologies:
 
 ## 📜 Legal
 
-- [Terms of Service](https://gist.github.com/your-tos-gist-link)
-- [Privacy Policy](https://gist.github.com/your-privacy-policy-gist-link)
+- [Terms of Service](https://gist.github.com/AlexxDevvz/941b3e36ceef8e0d198103f2a3a4b9f1)
+- [Privacy Policy](https://gist.github.com/AlexxDevvz/31f2487e97426e6f60dce0f862660fd5)
 
 ---
 
