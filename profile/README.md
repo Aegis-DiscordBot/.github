@@ -8,9 +8,9 @@
 
 *Advanced Discord moderation, anti-nuke protection, automod, music, YouTube alerts & a sleek web dashboard — all in one bot.*
 
-[![Discord](https://img.shields.io/badge/Support_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Invite Aegis](https://img.shields.io/badge/Invite_Aegis-57F287?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-Aegis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexDevvz/Aegis-DiscordBot)
+[![Discord](https://img.shields.io/badge/Support_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3SzpJEXUcV)
+[![Invite Aegis](https://img.shields.io/badge/Invite_Aegis-57F287?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1495395864833949767)
+[![GitHub](https://img.shields.io/badge/GitHub-Aegis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aegis-DiscordBot)
 
 </div>
 
